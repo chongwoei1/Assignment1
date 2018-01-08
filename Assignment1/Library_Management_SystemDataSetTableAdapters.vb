@@ -1,0 +1,2 @@
+﻿Friend Class Library_Management_SystemDataSetTableAdapters
+End Class
